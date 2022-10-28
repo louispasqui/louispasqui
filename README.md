@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louispasqui
 - 👀 I’m interested in C
-- 🌱 I’m currently learning Mzthemztique 
+- 🌱 I’m currently learning Mathematique 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me on mail
 
